@@ -13,7 +13,7 @@
   "devDependencies": {
     "@ethersproject/abi": "^5.5.0",
     "@fortawesome/fontawesome-common-types": "^0.2.36",
-    "@graphql-codegen/cli": "2.3.0",
+    "@graphql-codegen/cli": "2.16.5",
     "@graphql-codegen/introspection": "^2.1.0",
     "@graphql-codegen/typed-document-node": "^2.2.1",
     "@graphql-codegen/typescript": "2.4.1",
